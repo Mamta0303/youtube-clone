@@ -2,7 +2,7 @@
 
 Welcome to the **frontend** of a YouTube Clone built with **React**, **Redux Toolkit**, **Tailwind CSS**, and **Vite**. This project connects to an Express + MongoDB backend, providing full YouTube-like features: authentication, video uploads, channel management, likes, comments, and search.
 
-👉 **GitHub Repo:** [YouTube-Clone]
+👉 **GitHub Repo:** [YouTube-Clone] (https://github.com/Mamta0303/youtube-clone)
 ---
 
 ## ✨ Features
