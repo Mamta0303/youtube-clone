@@ -60,7 +60,7 @@ backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/JainAadeesh/youtube.git
+git clone https://github.com/Mamta0303/youtube-clone
 cd YouTube-Clone/backend
 ```
 
